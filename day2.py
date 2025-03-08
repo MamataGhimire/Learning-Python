@@ -1,4 +1,4 @@
-# type of data..............
+# type of data...........
 # a=1
 # name="harry"
 # b="100"
@@ -31,6 +31,6 @@
 # avg=(a+b)/2
 # print("average of your two number is ",avg)
 
-# to find the square.....
+# here it is to find the square.....
 # a=int(input("enter your  number"))
 # print("square of your number is ",a**2) #** for power ^ not valid
